@@ -7,6 +7,9 @@ cabbage
 fridge
 onion
 tomatos
+
+pasta
+salt
  
 
 Thanks :)
